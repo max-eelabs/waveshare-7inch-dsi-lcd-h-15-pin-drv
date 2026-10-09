@@ -223,6 +223,12 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for contribution requirements, build
 checks, and license headers. Every contribution commit must include both a DCO
 sign-off and a cryptographic signature: `git commit -s -S`.
 
+## Releases
+
+See [RELEASES.md](RELEASES.md) for the step-by-step GitHub release process and
+SNAPSHOT -> release -> SNAPSHOT version flow. ESP Component Registry publication
+is TBD.
+
 ## Sources and license
 
 The source files are licensed under Apache-2.0; see [LICENSE](LICENSE).
