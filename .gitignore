@@ -1,0 +1,11 @@
+build/
+**/build/
+managed_components/
+sdkconfig
+sdkconfig.old
+__pycache__/
+*.pyc
+*.log
+
+# Project-local ESP-IDF tool installations
+.espressif/
